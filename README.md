@@ -1,0 +1,2 @@
+# MailSender
+Simple mail client
