@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<font face="verdana" size="2">
+      <h3 align="left">Dear ${attributes.surname} ${attributes.name}</h3>
+      <br />
+      <br />
+      <br />
+  		<h3 align="left">Subject: NOTIFICATION</h3>
+  		<p>
+  		Do not reply.
+  		</p>
+  	</font>
+  </body>
+</html>
