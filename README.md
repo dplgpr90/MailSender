@@ -1,2 +1,2 @@
 # MailSender
-Simple mail client
+Maven project for a simple mail sender
